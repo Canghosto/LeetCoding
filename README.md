@@ -1,2 +1,2 @@
 # LeetCoding
-My Leetcode progress over time
+This is my Collection of various Leetcode solutions
